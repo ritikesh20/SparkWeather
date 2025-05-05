@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SparkWeather</string>
+    <item name="cityCount" type="id" />
+</resources>

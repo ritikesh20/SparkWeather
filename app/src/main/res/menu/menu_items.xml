@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item
+        android:id="@+id/menu_myLocation"
+        android:icon="@drawable/navigation"
+        android:title="My Location"
+
+        />
+
+    <item
+        android:id="@+id/menu_ChangeMode"
+        android:icon="@drawable/baseline_location_pin_24"
+        android:title="Mode" />
+
+    <item
+        android:id="@+id/menu_Notification"
+        android:icon="@drawable/baseline_location_pin_24"
+        android:title="Clear History"
+        app:showAsAction=""
+        />
+
+    <item
+        android:id="@+id/menu_OfflineData"
+        android:title="Offline Data " />
+
+    <item
+        android:id="@+id/menu_RefreshData"
+        android:title="Refresh Page" />
+
+
+
+</menu>

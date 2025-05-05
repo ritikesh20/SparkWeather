@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="sky">#097EC4</color>
+    <color name="textColorDay">#68C6FC</color>
+    <color name="textColorNight">#010F0F</color>
+    <color name="gray">#757575</color>
+
+</resources>
